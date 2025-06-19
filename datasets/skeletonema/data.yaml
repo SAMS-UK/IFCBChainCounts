@@ -1,0 +1,5 @@
+names:
+  0: skeletonema
+path: skeletonema_1000
+train: images/train
+val: images/val

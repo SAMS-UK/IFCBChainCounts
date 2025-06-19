@@ -1,0 +1,5 @@
+names:
+  0: chaetoceros
+path: chaetoceros_1000
+train: images/train
+val: images/val

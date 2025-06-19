@@ -1,0 +1,5 @@
+names:
+  0: thalassiosira
+path: thalassiosira_1000
+train: images/train
+val: images/val
